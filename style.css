@@ -42,3 +42,13 @@ main{
     width: 269px;
     height: 471px;
 }
+#redes > a, img{
+    display: block;
+    position: relative;
+    top: 30px;
+    left: 80%;
+    margin: 10px 0px 0px 0px;
+    width: 80px;
+    height: 80px;
+
+}
