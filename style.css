@@ -32,6 +32,7 @@ main{
     background-repeat: no-repeat;
 }
 #tela{
+    margin: auto;
     position: relative;
     top: 80px;
     left: 22px;
